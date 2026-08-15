@@ -1,5 +1,7 @@
 # AV Evasion Kit
 
+---
+
 A comprehensive evasion solution covering shellcode processing and loader development. It integrates techniques including Indirect Syscalls, ETW patching, Module Stomping, string encryption and IPv4 obfuscation to circumvent detection by mainstream antivirus software and endpoint detection and response (EDR) systems.
 
 > ⚠️ **Legal Disclaimer:** This tool is intended solely for authorised security testing, CTF competitions and penetration assessments. Any unauthorised or illegal use is strictly prohibited. The user assumes full responsibility for any consequences arising from the use of this tool.
