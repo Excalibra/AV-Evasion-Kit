@@ -313,5 +313,6 @@ Output: `payload_data.h`
 **Test Environment:** Windows 10/11 Pro x64  
 
 <img width="1729" height="910" alt="image" src="https://github.com/user-attachments/assets/b32cf2ec-b023-47d5-8ec0-e448170052d2" />
-<img width="2560" height="1248" alt="image" src="https://github.com/user-attachments/assets/97b621af-775b-47e7-b82c-5b9e2eb6beaf" />  
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/703f229f-ce14-4a4a-a121-bfc697822370" />
+
 <img width="2560" height="1248" alt="image" src="https://github.com/user-attachments/assets/40c18ab7-4d58-484e-8861-8d8cbc46e74c" />
