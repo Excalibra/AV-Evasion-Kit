@@ -314,5 +314,4 @@ Output: `payload_data.h`
 
 <img width="1729" height="910" alt="image" src="https://github.com/user-attachments/assets/b32cf2ec-b023-47d5-8ec0-e448170052d2" />
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/703f229f-ce14-4a4a-a121-bfc697822370" />
-
-<img width="2560" height="1248" alt="image" src="https://github.com/user-attachments/assets/40c18ab7-4d58-484e-8861-8d8cbc46e74c" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/5363514d-47f6-4f14-bc66-1fd96c00ecb5" />
